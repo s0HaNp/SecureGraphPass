@@ -60,5 +60,11 @@ bool isPatternValid = imageAuth.verifyPattern();
    
 2. User Caution: Users should exercise caution when setting their image patterns, ensuring they match the predefined original pattern.
 
+### Team Members:
+1. Sohan Kumar Potti
+2. Gajula Amulya
+3. Bevara Praveen
+4. Bakki Srishith Patel
+
 ### License
 This smart contract is licensed under the MIT License. See the LICENSE file for details.
